@@ -1,10 +1,10 @@
 <?php
 /*
 	Plugin Name: WP Environment Push
-	Plugin URI: http://www.marketwarp.com/plugins
-	Version: 0.1
-	Author: Drew Hammond <drew@marketwarp.com>
-	Author URI: http://www.marketwarp.com
+	Plugin URI: https://github.com/drewhammond/wp-environment-push
+	Version: 0.1.1
+	Author: Drew Hammond <drew@alphagenetica.com>
+	Author URI: https://github.com/drewhammond
 	Description: This plugin allows you to manage and push iterations of your WordPress development from one environment to another.
 	Text Domain: wp-environment-push
 	GitHub Plugin URI: drewhammond/wp-environment-push
